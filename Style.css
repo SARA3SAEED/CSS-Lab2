@@ -1,0 +1,186 @@
+/*---------------- nav bar-------------*/
+   .nav{
+    background-color: black;
+    width: 100%;
+    height: 50px;
+    margin: 0;
+    padding: 10px;
+   }
+
+   ul{
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+   }
+
+   ul li{
+    color: aliceblue;
+    padding: 5px;
+    float: left;
+   }
+
+
+
+
+/*---------------- header bar-------------*/
+
+   .header{
+    background-color: rgb(198, 199, 199);
+    margin: 0;
+    height: 400px;
+    padding: 10px;
+   }
+
+    .header h1{
+        margin: 0;
+        position: relative;
+        left: 700px; 
+        top: 100px;
+    }
+
+    .header p{
+        margin: 0;
+        position: relative;
+        left: 700px; 
+        top: 150px;
+        width: 30%; 
+     }
+
+      .img1{
+        margin: 0;
+        position: relative;
+        left: 70px; 
+       bottom: 30px;
+     }
+
+     .img2{
+        margin: 0;
+        position: relative;
+        left: 30px; 
+        top: 40px;
+     }
+
+     
+
+
+
+
+
+
+/*---------------- body bar-------------*/
+
+   .parent{
+    background-color: rgb(225, 235, 235);
+    width: 100%;
+    height: 400px;
+    float: left;
+    padding: 10px;
+   }
+
+   .parent div{
+    width: 90px;
+    height: 90px;
+    margin: 2px;
+   }
+   .one{
+    background-color: rgb(168, 18, 118);
+    position: relative;
+    top: 20px;
+    left: 50px;
+    box-shadow: 2px 3px 5px ;
+    
+   }
+
+   .two{
+    background-color: rgb(5, 3, 4);
+    position: relative;
+    top: 30px;
+    left: 130px;
+    box-shadow: 2px 3px 5px ;
+   }
+
+   .three{
+    background-color: rgb(29, 182, 220);
+    position: relative;
+    top: 40px;
+    left: 200px;
+    box-shadow: 2px 3px 5px ;
+   }
+
+   .t4{
+    background-color: rgb(29, 182, 220);
+    position: relative;
+    bottom: 59px;
+    left: 800px;
+    box-shadow: 2px 3px 5px ;
+   }
+
+   .t5{
+    background-color: rgb(5, 3, 4);
+    position: relative;
+    bottom: 250px;
+    left: 730px;
+    box-shadow: 2px 3px 5px ;
+   }  
+   
+   .t6{
+    background-color: rgb(168, 18, 118);
+    position: relative;
+    bottom: 440px ; 
+    left: 660px;
+    box-shadow: 2px 3px 5px ;
+   }
+
+   .t7{
+    background-color: rgb(5, 3, 4);
+    position: relative;
+    bottom: 430px;
+    left: 300px;
+    box-shadow: 2px 3px 5px ;
+   }
+
+   .t8{
+    background-color: rgb(168, 18, 118);
+    position: relative;
+    bottom: 620px;
+    left: 380px;
+    box-shadow: 2px 3px 5px ;
+   }
+
+   .t9{
+    background-color: rgb(5, 3, 4);
+    position: relative;
+    bottom: 615px;
+    left: 880px;
+    box-shadow: 2px 3px 5px ;
+   }
+
+   .t10{
+    background-color: rgb(168, 18, 118);
+    position: relative;
+    bottom: 805px;
+    left: 950px;
+    box-shadow: 2px 3px 5px ;
+   }
+
+
+
+
+   /*---------------- footer bar-------------*/
+   div{
+    background-color: black;
+    width: 100%;
+   }
+
+   .last{
+    color: azure;
+    text-align: center;
+    padding: 10px;
+   }
+
+   .last p{
+    padding: 0;
+    margin: 0;
+   }
+   
+
